@@ -4,7 +4,16 @@ h1{
     font-size: 80px;
     text-align: center;
 }
-p{
-    color:slategray
-    text-align: center;
+
 }
+body{
+    background-color:rgb(0, 0, 0)
+    }
+    
+    
+    p{
+    color:rgb(0, 0, 0);
+    font-family:arial;
+    font-size:80px;
+    background: 
+    }
